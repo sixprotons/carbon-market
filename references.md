@@ -65,3 +65,7 @@ The voluntary carbon markets function outside of the compliance market. They ena
 Unlike under CDM, there are no established rules and regulations for the voluntary carbon market. On the positive side, voluntary markets can serve as a testing field for new procedures, methodologies and technologies that may later be included in regulatory schemes. Voluntary markets allow for experimentation and innovation because projects can be implemented with fewer transaction costs than CDM or other compliance market projects. Voluntary markets also serve a niche for micro projects that are too small to warrant the administrative burden of CDM or for projects currently not covered under compliance schemes. On the negative side, the lack of quality control has led to the production of some low quality VERs, such as those generated from projects that appear likely to have happened anyway.
 
 from: [Mandatory & Voluntary Offset Markets](http://www.co2offsetresearch.org/policy/MandatoryVsVoluntary.html)
+
+[EU Emissions Trading System](https://ec.europa.eu/clima/policies/ets/index_en.htm)
+
+[GHG Management Institute](http://ghginstitute.org/)
