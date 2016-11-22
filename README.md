@@ -3,6 +3,9 @@ The Carbon Market is a voluntary offset marketplace. Entities operating Carbon D
 
 The goal of the Carbon Market is to allow small, decentralized CDR entities pool their capture and sell the resulting credit in bundles, bringing value to a broad range of buyers.
 
+### Current Markets
+[TerraPass](https://www.terrapass.com)
+
 ### Personas
 
 
@@ -25,6 +28,7 @@ ldv: average 15k miles/year
 470k cars = 1 coal plant
 
 ### Challenges
+How much is ethical and responsible action a market demand driver?
 How does the market drive credit supply?
 How are CDR instruments verified and maintained?
 Can purchases be transferred to compliance markets?
